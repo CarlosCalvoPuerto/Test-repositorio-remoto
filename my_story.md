@@ -12,6 +12,10 @@ Este misterioso personaje contaba con un articulo muy peculiar...
 
 ![sombrero](./men-hat.svg)
 
+---
+
+Gracias por leer esta maravillosa historia
+
 <style>
 body {
     background: lightgrey;
